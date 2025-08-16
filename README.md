@@ -150,6 +150,4 @@ docker-compose up --build
 
 ✨ Happy budgeting with **DigiPocket!** ✨
 
-```
-
-
+---
